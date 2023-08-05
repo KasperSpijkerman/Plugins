@@ -1,0 +1,3 @@
+[submodule "Plugins2"]
+	path = Plugins2
+	url = git@github.com:KasperSpijkerman/Plugins.git
